@@ -1,0 +1,15 @@
+artifact_uri: file:///h:/DATA/MY/practice/Practice-37/mlruns/0/503bb2fcc97d413c91cc9ddb9feccf26/artifacts
+end_time: 1729534612202
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 503bb2fcc97d413c91cc9ddb9feccf26
+run_name: masked-toad-52
+run_uuid: 503bb2fcc97d413c91cc9ddb9feccf26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729534604708
+status: 3
+tags: []
+user_id: mouncef

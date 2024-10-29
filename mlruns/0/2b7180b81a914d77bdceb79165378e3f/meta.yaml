@@ -1,0 +1,16 @@
+artifact_uri: file:///h:/DATA/MY/practice/Practice-37/mlruns/0/2b7180b81a914d77bdceb79165378e3f/artifacts
+deleted_time: 1729534560909
+end_time: 1729534470191
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2b7180b81a914d77bdceb79165378e3f
+run_name: secretive-smelt-115
+run_uuid: 2b7180b81a914d77bdceb79165378e3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729534459929
+status: 3
+tags: []
+user_id: mouncef

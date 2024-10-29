@@ -1,0 +1,16 @@
+artifact_uri: file:///h:/DATA/MY/practice/Practice-37/mlruns/0/b11b4523a664400895ce9a127d457baa/artifacts
+deleted_time: 1729534560912
+end_time: 1729534282871
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b11b4523a664400895ce9a127d457baa
+run_name: smiling-duck-616
+run_uuid: b11b4523a664400895ce9a127d457baa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729534265351
+status: 3
+tags: []
+user_id: mouncef

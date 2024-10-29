@@ -1,0 +1,16 @@
+artifact_uri: file:///h:/DATA/MY/practice/Practice-37/mlruns/0/6fc7338a403f41f9b018c9b4f67284d8/artifacts
+deleted_time: 1729534560912
+end_time: 1729534385920
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 6fc7338a403f41f9b018c9b4f67284d8
+run_name: gregarious-mink-293
+run_uuid: 6fc7338a403f41f9b018c9b4f67284d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729534376871
+status: 3
+tags: []
+user_id: mouncef

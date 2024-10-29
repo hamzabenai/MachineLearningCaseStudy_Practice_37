@@ -1,0 +1,15 @@
+artifact_uri: file:///h:/DATA/MY/practice/Practice-37/mlruns/0/c985bf8b89fe4b66ada3acbcb6bab3ed/artifacts
+end_time: 1729534590663
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c985bf8b89fe4b66ada3acbcb6bab3ed
+run_name: nimble-rook-351
+run_uuid: c985bf8b89fe4b66ada3acbcb6bab3ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729534571545
+status: 3
+tags: []
+user_id: mouncef
